@@ -17,4 +17,4 @@ All of these supports extendation.
 |captuREEE (CaptureExp)|Motion capture implementation for VR|https://github.com/Blusutils/captuREEE
 |zenscREEEN (ZenScreen)|Customizable and (if you wish) distraction-free fullscreen window|https://github.com/Blusutils/zenscREEEN
 |imaGEEETS (ImageTS)|File browser for images with tags and cool search|https://github.com/Blusutils/imaGEEETS
-|UGLy (Universal Game Launcher (yet))|Universal application launcher, but with ugly interface|https://github.com/Blusutils/UGLY
+|UGLy (Universal Game Launcher (yet))|Universal application launcher, but with ugly interface|https://github.com/Blusutils/UGLy
